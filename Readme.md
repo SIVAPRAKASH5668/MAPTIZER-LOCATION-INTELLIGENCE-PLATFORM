@@ -2,6 +2,7 @@
 
 Maptizer is a powerful **Geospatial Analytics Platform** combining full-scale map interaction with AI-powered insights. Designed for developers, analysts, and researchers, it provides real-time, location-based intelligence using rich spatial data and intelligent visualization layers.
 
+
 Harness the potential of **LocationIQ**, **Tailwind CSS**, **Vite**, **Qloo APIs**, and custom **AI/ML models** to extract actionable insights from maps, users, and dynamic geolocated data.
 
 ---
